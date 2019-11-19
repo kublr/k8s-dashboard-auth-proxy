@@ -1,0 +1,30 @@
+# Program binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.sha
+*.tar.gz
+
+# Test binaries and reports
+*.test
+*.out
+
+# JetBrains IDEs: IntelliJ, GoLand and etc
+*.iws
+.idea/
+.idea_modules/
+*.iml
+
+# Eclipse
+.project
+.settings
+
+# VSCode
+.vscode
+
+# Other
+.DS_Store
+
+!vendor/**

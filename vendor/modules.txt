@@ -1,0 +1,60 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d
+github.com/gogo/protobuf/proto
+github.com/gogo/protobuf/sortkeys
+# github.com/google/gofuzz v1.0.0
+github.com/google/gofuzz
+# github.com/gorilla/handlers v1.4.2
+github.com/gorilla/handlers
+# github.com/kubernetes/dashboard v1.10.1
+github.com/kubernetes/dashboard/src/app/backend/cert
+github.com/kubernetes/dashboard/src/app/backend/cert/api
+github.com/kubernetes/dashboard/src/app/backend/cert/ecdsa
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/spf13/pflag v1.0.5
+github.com/spf13/pflag
+# github.com/stretchr/testify v1.4.0
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+# golang.org/x/text v0.3.2
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# gopkg.in/inf.v0 v0.9.1
+gopkg.in/inf.v0
+# gopkg.in/yaml.v2 v2.2.5
+gopkg.in/yaml.v2
+# k8s.io/api v0.0.0-20191115135540-bbc9463b57e5
+k8s.io/api/core/v1
+# k8s.io/apimachinery v0.0.0-20191116203941-08e4eafd6d11
+k8s.io/apimachinery/pkg/api/resource
+k8s.io/apimachinery/pkg/apis/meta/v1
+k8s.io/apimachinery/pkg/conversion
+k8s.io/apimachinery/pkg/conversion/queryparams
+k8s.io/apimachinery/pkg/fields
+k8s.io/apimachinery/pkg/labels
+k8s.io/apimachinery/pkg/runtime
+k8s.io/apimachinery/pkg/runtime/schema
+k8s.io/apimachinery/pkg/selection
+k8s.io/apimachinery/pkg/types
+k8s.io/apimachinery/pkg/util/errors
+k8s.io/apimachinery/pkg/util/intstr
+k8s.io/apimachinery/pkg/util/json
+k8s.io/apimachinery/pkg/util/naming
+k8s.io/apimachinery/pkg/util/net
+k8s.io/apimachinery/pkg/util/runtime
+k8s.io/apimachinery/pkg/util/sets
+k8s.io/apimachinery/pkg/util/validation
+k8s.io/apimachinery/pkg/util/validation/field
+k8s.io/apimachinery/pkg/watch
+k8s.io/apimachinery/third_party/forked/golang/reflect
+# k8s.io/klog v1.0.0
+k8s.io/klog
