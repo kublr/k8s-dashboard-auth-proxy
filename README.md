@@ -1,5 +1,5 @@
 # Impersonation Proxy for Kubernetes Dashboard
-Simple reverse proxy, that allows to pass Authorization/Impersonation headers to ([Kubernetes Dashboard](https://github.com/kubernetes/dashboard)), 
+Simple reverse proxy, that allows to pass Authorization/Impersonation headers to [Kubernetes Dashboard](https://github.com/kubernetes/dashboard), 
 when running through kube-apiserver proxy 
 
 ## Supported tags and respective `Dockerfile` links
